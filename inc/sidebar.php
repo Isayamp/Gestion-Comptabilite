@@ -24,13 +24,13 @@
 					<li><a class="" href="pages/departements.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Departements
 					</a></li>
-					<li><a class="" href="#">
+					<li><a class="" href="pages/services_vendus.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Services vendus
 					</a></li>
-					<li><a class="" href="#">
+					<li><a class="" href="pages/pays.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Pays
                     </a></li>
-                    <li><a class="" href="#">
+                    <li><a class="" href="pages/provinces.php">
 						<span class="fa fa-arrow-right">&nbsp;</span> Provinces
 					</a></li>
 				</ul>
